@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AjedrezAPP</string>
+    <string name="premium">Presiona Aqui para Convertirte en Usuario Premium</string>
+    <string name="tituloPremium">Obten tu cuenta Premium</string>
+    <string name="beneficio">No mas Anuncios</string>
+    <string name="beneficio2">Intentos Ilimitados</string>
+    <string name="beneficio3">Guardar Progreso</string>
+    <string name="costo">50 Lempiras</string>
+    <string name="nivel">Nivel Muggle: </string>
+    <string name="mov">Pasos: </string>
+    <string name="tiempo">Tiempo: </string>
+    <string name="intentos">Intentos: </string>
+    <string name="extras">Extras: </string>
+    <string name="instrucciones">Seleccione la pieza que desea mover </string>
+    <string name="autor">Juego Realizado por Marthín José Contreras Rodríguez</string>
+</resources>

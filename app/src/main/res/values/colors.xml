@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="colorTablero1">#dee2e6</color>
+    <color name="colorTablero2">#343a40</color>
+    <color name="colorFondo">#F2E5C9</color>
+    <color name="colorContrasteTexto">#C30E43</color>
+    <color name="gryffindor">#6a040f</color>
+    <color name="slytherin">#344e41</color>
+    <color name="hufflepuff">#f77f00</color>
+    <color name="ravenclaw">#003049</color>
+</resources>
